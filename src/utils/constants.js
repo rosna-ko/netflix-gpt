@@ -1,0 +1,2 @@
+export const LOGO_URL = "https://cdn.cookielaw.org/logos/dd6b162f-1a32-456a-9cfe-897231c7763c/4345ea78-053c-46d2-b11e-09adaef973dc/Netflix_Logo_PMS.png";
+export const BG_URL="https://assets.nflxext.com/ffe/siteui/vlv3/8e8ff9d3-17b4-4ce1-b571-06ba4e025cca/web_tall_panel/TH-en-20241125-TRIFECTA-perspective_e3855269-83d2-4961-aaef-0cae03942eb6_large.jpg"
